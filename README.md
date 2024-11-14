@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m a computer science student at Suffolk University in Boston, Massachusetts, just two semesters away from earning my degree. I’m a data science enthusiast and passionate about applying my knowledge of CS to uncover insights and drive innovation. With experience in both front-end and back-end development, I love diving into new technologies and building projects that are productive, creative, impactful and fun. Always excited to learn, grow, and collaborating with other people!
+I’m a Computer Science student at Suffolk University in Boston, Massachusetts, just two semesters away from earning my degree. I’m a data science enthusiast and passionate about applying my knowledge of CS to uncover insights and drive innovation. With experience in both front-end and back-end development, I love diving into new technologies and building projects that are productive, creative, impactful and fun. Always excited to learn, grow, and collaborating with other people!
 - 🌱 I’m currently learning ...
   - Swift
   - 6502
